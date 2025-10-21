@@ -1,3 +1,3 @@
 print("I like Ice cream too!")
-print("Its reallt good!")
+print("Its really good!")
 # This is my bro code python program
